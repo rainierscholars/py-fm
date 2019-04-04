@@ -20,6 +20,3 @@ df = pd.read_sql(sql=sql, con=db)
 # Print rows in FileMaker table
 with pd.option_context('display.max_rows', None, 'display.max_columns', None):
     print(df)
-
-
-
