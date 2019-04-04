@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 lxml = "==4.2.5"
 zeep = {extras = ["async"],version = "*"}
+pypyodbc = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
