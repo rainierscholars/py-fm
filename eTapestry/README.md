@@ -4,11 +4,11 @@ This directory contains scripts that integrate FileMaker with eTapestry API
 ### Machine setup:
 1. Install Python and :
     - [Mac](https://docs.python-guide.org/starting/install3/osx/)
-    - [Windows]https://docs.python-guide.org/starting/install3/win/)
+    - [Windows](https://docs.python-guide.org/starting/install3/win/)
 2. Install [VS Code](https://code.visualstudio.com/).
 3. Update `python.pythonpath` in `/vscode/settings.json` with the result from running `pipenv --py` command.
 
-### Test API connection:
+### Test eTapestry API connection:
 1. Follow instructions [here](https://www.blackbaud.com/support/howto/coveo/etapestry/etapapi.html) to get set up with a 
 sandbox or production environment for eTapestry API.
 2. You'll get an email with instructions on how to get the database ID and API key. When you get them, save them to
