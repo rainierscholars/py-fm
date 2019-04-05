@@ -2,7 +2,7 @@
 This directory contains scripts that integrate FileMaker with eTapestry API
 
 ### Machine setup:
-1. Install Python and :
+1. Install Python:
     - [Mac](https://docs.python-guide.org/starting/install3/osx/)
     - [Windows](https://docs.python-guide.org/starting/install3/win/)
 2. Install [VS Code](https://code.visualstudio.com/).
