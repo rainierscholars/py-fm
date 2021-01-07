@@ -7,7 +7,7 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-lxml = "==4.2.5"
+lxml = "==4.6.2"
 zeep = {extras = ["async"],version = "*"}
 pypyodbc = "*"
 pandas = "*"
